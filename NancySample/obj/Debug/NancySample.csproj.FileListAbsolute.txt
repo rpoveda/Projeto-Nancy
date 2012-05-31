@@ -1,0 +1,7 @@
+c:\users\rpoveda\documents\visual studio 2010\Projects\NancySample\NancySample\bin\NancySample.dll
+c:\users\rpoveda\documents\visual studio 2010\Projects\NancySample\NancySample\bin\NancySample.pdb
+c:\users\rpoveda\documents\visual studio 2010\Projects\NancySample\NancySample\bin\Nancy.dll
+c:\users\rpoveda\documents\visual studio 2010\Projects\NancySample\NancySample\bin\Nancy.Hosting.Aspnet.dll
+c:\users\rpoveda\documents\visual studio 2010\Projects\NancySample\NancySample\obj\Debug\ResolveAssemblyReference.cache
+c:\users\rpoveda\documents\visual studio 2010\Projects\NancySample\NancySample\obj\Debug\NancySample.dll
+c:\users\rpoveda\documents\visual studio 2010\Projects\NancySample\NancySample\obj\Debug\NancySample.pdb
